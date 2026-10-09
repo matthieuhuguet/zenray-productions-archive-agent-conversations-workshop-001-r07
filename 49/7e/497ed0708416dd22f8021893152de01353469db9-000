@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:b90978d9-0de7-496b-89b0-cabe4742149f",
+  "sessionId": "b90978d9-0de7-496b-89b0-cabe4742149f",
+  "provider": "gemini",
+  "title": "lance très rapidement un heavy : /Users/zenray/Downloads/tmp-selection1/IMG_7081.JPG /Users/zenray/Downloads/tmp-selection1/IMG_7085.JPG /Us",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/b90978d9-0de7-496b-89b0-cabe4742149f.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/b90978d9-0de7-496b-89b0-cabe4742149f.db",
+      "relativePath": "conversations/gemini/a63df9fe79cbe991/8bfb1688d2f44bcf.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T09:09:50.349Z",
+  "stagedAt": "2026-10-04T08:25:06.484Z"
+}

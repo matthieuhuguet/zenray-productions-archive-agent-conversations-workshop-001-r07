@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:af662c22-29eb-433a-971e-189453db857f",
+  "sessionId": "af662c22-29eb-433a-971e-189453db857f",
+  "provider": "gemini",
+  "title": "You are the Audio Engineer subagent for ZenRay. Task: Download the audio track for: \"Red Dead Redemption 2 Official Soundtrack - Loading Scr",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/af662c22-29eb-433a-971e-189453db857f.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/af662c22-29eb-433a-971e-189453db857f.db",
+      "relativePath": "conversations/gemini/a3d9fa8e2543bce5/0f6dae8e642c0ec8.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-16T17:50:41.481Z",
+  "stagedAt": "2026-10-04T08:14:06.250Z"
+}

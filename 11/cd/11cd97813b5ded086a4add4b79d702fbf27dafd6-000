@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:ba8225a5-8c29-4998-ae10-4df55cd2f006",
+  "sessionId": "ba8225a5-8c29-4998-ae10-4df55cd2f006",
+  "provider": "gemini",
+  "title": "Tu es le catalogueur d'assets pour le projet Louisiana Bayou. Ta mission : 1. Fais l'inventaire exhaustif de tous les assets relatifs au pro",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/ba8225a5-8c29-4998-ae10-4df55cd2f006.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/ba8225a5-8c29-4998-ae10-4df55cd2f006.db",
+      "relativePath": "conversations/gemini/b456e472546b7328/8b59fcb0f5f1ed80.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-19T20:27:38.511Z",
+  "stagedAt": "2026-10-04T08:09:26.041Z"
+}

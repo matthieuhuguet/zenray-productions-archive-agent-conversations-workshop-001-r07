@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c9259de8-0302-474b-8a46-3d409e36b20a",
+  "sessionId": "c9259de8-0302-474b-8a46-3d409e36b20a",
+  "provider": "gemini",
+  "title": "Tu es l'agent 1/3 chargé de répondre aux messages Leboncoin sur l'onglet Tout (partie haute de la liste). URL: https://www.leboncoin.fr/mess",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c9259de8-0302-474b-8a46-3d409e36b20a.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c9259de8-0302-474b-8a46-3d409e36b20a.db",
+      "relativePath": "conversations/gemini/a5b09ad55d710b44/73c9d51b464baaf3.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T15:31:21.832Z",
+  "stagedAt": "2026-10-04T08:12:46.083Z"
+}

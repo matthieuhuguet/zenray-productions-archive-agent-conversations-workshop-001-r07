@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:8650ff01-823c-4f46-a9e4-ee9daa47ccba",
+  "sessionId": "8650ff01-823c-4f46-a9e4-ee9daa47ccba",
+  "provider": "gemini",
+  "title": "donne moi une sheet des 4 assets cropés sur l'asset '/Users/zenray/Desktop/Screenshot 2026-10-04 at 11.55.47 (2).png' '/Users/zenray/Desktop",
+  "projectId": "control-resonant-hub-assets",
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/8650ff01-823c-4f46-a9e4-ee9daa47ccba.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/8650ff01-823c-4f46-a9e4-ee9daa47ccba.db",
+      "relativePath": "conversations/gemini/b055f8d1f76becef/471877b4105c336d.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T12:00:51.191Z",
+  "stagedAt": "2026-10-08T15:28:16.699Z"
+}

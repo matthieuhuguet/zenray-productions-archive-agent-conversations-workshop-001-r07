@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:a2e082c0-fcb7-437c-8216-fc6abf460b27",
+  "sessionId": "a2e082c0-fcb7-437c-8216-fc6abf460b27",
+  "provider": "gemini",
+  "title": "Tu es l agent specialise charge de rediger UNIQUEMENT le plan d execution detaille pour le systeme Per-Plank UV dans Houdini. REGLE ABSOLUE ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/a2e082c0-fcb7-437c-8216-fc6abf460b27.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/a2e082c0-fcb7-437c-8216-fc6abf460b27.db",
+      "relativePath": "conversations/gemini/b42af96d6cd48b97/437a7d2fd17ac8cd.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-13T08:06:34.865Z",
+  "stagedAt": "2026-10-04T08:17:56.234Z"
+}

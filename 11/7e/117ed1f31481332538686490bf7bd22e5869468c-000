@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:f88f461a-2793-4311-bb99-0f2307ae2c51",
+  "sessionId": "f88f461a-2793-4311-bb99-0f2307ae2c51",
+  "provider": "gemini",
+  "title": "delete antigravity ide proprement garde antigravity sur mon mac",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/f88f461a-2793-4311-bb99-0f2307ae2c51.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/f88f461a-2793-4311-bb99-0f2307ae2c51.db",
+      "relativePath": "conversations/gemini/a91320746b35b9e5/596de277baf7022e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-05T07:39:03.972Z",
+  "stagedAt": "2026-10-04T08:28:18.250Z"
+}
