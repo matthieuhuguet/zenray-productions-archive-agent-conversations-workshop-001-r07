@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:7f61e01c-325f-4829-aa1b-398db6423e90",
+  "sessionId": "7f61e01c-325f-4829-aa1b-398db6423e90",
+  "provider": "gemini",
+  "title": "lance un heavy pour ça et génère le post aussi après avoir vu les images : /Users/zenray/Downloads/meiji-jingu1/IMG_6583.jpeg /Users/zenray/",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/7f61e01c-325f-4829-aa1b-398db6423e90.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/7f61e01c-325f-4829-aa1b-398db6423e90.db",
+      "relativePath": "conversations/gemini/86f658e6da636b02/4df65d7761250789.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-04T17:20:31.546Z",
+  "stagedAt": "2026-10-04T08:28:51.937Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:3f1dcf82-f108-468f-a49d-6c7ead3b9fbf",
+  "sessionId": "3f1dcf82-f108-468f-a49d-6c7ead3b9fbf",
+  "provider": "gemini",
+  "title": "update le skill pour que ça fonctionne avec gemini aussi puis met à jour pour prendre en contexte le troisième environnement et toutes les d",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/3f1dcf82-f108-468f-a49d-6c7ead3b9fbf.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/3f1dcf82-f108-468f-a49d-6c7ead3b9fbf.db",
+      "relativePath": "conversations/gemini/a18678534c60bc09/d1af54390fb135c6.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-04T16:07:29.746Z",
+  "stagedAt": "2026-10-04T08:29:21.584Z"
+}

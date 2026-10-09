@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4c17d169-05fe-4fed-939a-5da09b252de3",
+  "sessionId": "4c17d169-05fe-4fed-939a-5da09b252de3",
+  "provider": "gemini",
+  "title": "Récupère le harness claude code global et met le setup proprement partout sur antigravity / google solutions et ensuite explique combien de ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4c17d169-05fe-4fed-939a-5da09b252de3.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4c17d169-05fe-4fed-939a-5da09b252de3.db",
+      "relativePath": "conversations/gemini/98b56c6e553c75f5/8b2b9b6b47243853.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-04T15:22:06.924Z",
+  "stagedAt": "2026-10-04T08:29:41.702Z"
+}

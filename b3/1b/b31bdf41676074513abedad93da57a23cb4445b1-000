@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:1f14ab01-8199-4281-a3b0-8e98782d5f46",
+  "sessionId": "1f14ab01-8199-4281-a3b0-8e98782d5f46",
+  "provider": "gemini",
+  "title": "verifie que ce projet est vide est si oui vide toutes les animations pour les mettres dans Unreal le bon projet mais normalement c'est déjà ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/1f14ab01-8199-4281-a3b0-8e98782d5f46.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/1f14ab01-8199-4281-a3b0-8e98782d5f46.db",
+      "relativePath": "conversations/gemini/8e29495df4dba12e/658c100e30abe17b.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-19T14:27:00.372Z",
+  "stagedAt": "2026-10-04T08:10:35.976Z"
+}

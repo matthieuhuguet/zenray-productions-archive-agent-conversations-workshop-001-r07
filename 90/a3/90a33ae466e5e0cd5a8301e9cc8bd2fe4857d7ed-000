@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:2c2302e2-bacb-41dc-9e0e-de142ace6e93",
+  "sessionId": "2c2302e2-bacb-41dc-9e0e-de142ace6e93",
+  "provider": "gemini",
+  "title": "Tu es l agent specialise charge du crop haute precision des 3 spheres et de la generation du clip video de 3 secondes. MISSION PRECISE : 1. ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/2c2302e2-bacb-41dc-9e0e-de142ace6e93.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/2c2302e2-bacb-41dc-9e0e-de142ace6e93.db",
+      "relativePath": "conversations/gemini/94d85bbc96bc9d25/a4b76f6730c77158.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-13T12:49:36.382Z",
+  "stagedAt": "2026-10-04T08:17:26.851Z"
+}

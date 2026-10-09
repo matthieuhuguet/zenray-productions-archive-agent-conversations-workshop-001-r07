@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:2a94dfc7-06bf-4ad3-a10a-9eafd6426e27",
+  "sessionId": "2a94dfc7-06bf-4ad3-a10a-9eafd6426e27",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de finaliser Short 01 (Windows). Mission precise : 1. Lance la commande python : python3 /tmp/rend",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/2a94dfc7-06bf-4ad3-a10a-9eafd6426e27.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/2a94dfc7-06bf-4ad3-a10a-9eafd6426e27.db",
+      "relativePath": "conversations/gemini/8b685f5d514bf601/f6a8428b29dfdd5f.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:45:19.766Z",
+  "stagedAt": "2026-10-04T08:22:06.107Z"
+}

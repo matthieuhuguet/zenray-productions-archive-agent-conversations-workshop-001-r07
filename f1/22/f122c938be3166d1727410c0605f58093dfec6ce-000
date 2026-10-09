@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
+  "sessionId": "f3054ac7-8f2b-4b39-8ca3-541e9a4c3012",
+  "provider": "gemini",
+  "title": "grep zenrayfreelance context j'apply faut que je réponde quoi la ? get le context via + LE PROJET zenray-freelance et toute la data base fre",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/f3054ac7-8f2b-4b39-8ca3-541e9a4c3012.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/f3054ac7-8f2b-4b39-8ca3-541e9a4c3012.db",
+      "relativePath": "conversations/gemini/9c32fdcd2a963add/2d6722ce0bc5ca74.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-07T16:07:43.871Z",
+  "stagedAt": "2026-10-08T08:15:57.446Z"
+}

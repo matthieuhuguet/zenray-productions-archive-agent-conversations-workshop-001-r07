@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:2b944a6c-5987-4478-94c6-dc705d254ff1",
+  "sessionId": "2b944a6c-5987-4478-94c6-dc705d254ff1",
+  "provider": "gemini",
+  "title": "Réalise le mail Bonjour j'aimerai m'inscrire à votre cours de japonais je reviens de 3 mois ou j'étais au japon je pense avoir un niveau n4 ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/2b944a6c-5987-4478-94c6-dc705d254ff1.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/2b944a6c-5987-4478-94c6-dc705d254ff1.db",
+      "relativePath": "conversations/gemini/9afc66ff4c2b934a/ddf5ec774430de3e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T14:16:51.074Z",
+  "stagedAt": "2026-10-04T08:24:16.176Z"
+}

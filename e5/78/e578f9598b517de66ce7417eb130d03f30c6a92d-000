@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:6702976d-da86-4aee-bcd9-8ad8f20ee534",
+  "sessionId": "6702976d-da86-4aee-bcd9-8ad8f20ee534",
+  "provider": "gemini",
+  "title": "Tu peux identifier claude sync et faire exactement pareil pour les différentes sessions de codex et antigravity le but c'est quand je me con",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/6702976d-da86-4aee-bcd9-8ad8f20ee534.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/6702976d-da86-4aee-bcd9-8ad8f20ee534.db",
+      "relativePath": "conversations/gemini/8d6a053652272b86/d97638917ff02fec.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-14T14:44:58.395Z",
+  "stagedAt": "2026-10-04T08:16:26.600Z"
+}
