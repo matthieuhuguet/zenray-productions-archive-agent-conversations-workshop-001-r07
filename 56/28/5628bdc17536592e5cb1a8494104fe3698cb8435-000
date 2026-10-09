@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:817ce2b3-49da-4157-97ed-d40d9533b1e7",
+  "sessionId": "817ce2b3-49da-4157-97ed-d40d9533b1e7",
+  "provider": "gemini",
+  "title": "Est ce que tu peux voir s'il existe un houdini mcp officiel sortie par compatible avec agents agnostique si possible je sais que radu cius a",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/817ce2b3-49da-4157-97ed-d40d9533b1e7.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/817ce2b3-49da-4157-97ed-d40d9533b1e7.db",
+      "relativePath": "conversations/gemini/b4a79670211ed2af/0a7cfb642d3ca927.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T09:16:38.501Z",
+  "stagedAt": "2026-10-04T08:26:36.753Z"
+}

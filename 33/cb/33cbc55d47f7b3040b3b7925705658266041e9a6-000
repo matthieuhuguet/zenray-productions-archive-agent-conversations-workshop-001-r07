@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:112cb746-50f0-4a99-a9be-7a6bd7f1b266",
+  "sessionId": "112cb746-50f0-4a99-a9be-7a6bd7f1b266",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 02 (Roof) avec les sous-titres animes en canon 1s (pop dynamique 1.18, Inter E",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/112cb746-50f0-4a99-a9be-7a6bd7f1b266.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/112cb746-50f0-4a99-a9be-7a6bd7f1b266.db",
+      "relativePath": "conversations/gemini/c100f7598496bdee/cb68889bdaeda90b.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:02:32.867Z",
+  "stagedAt": "2026-10-04T08:20:56.109Z"
+}

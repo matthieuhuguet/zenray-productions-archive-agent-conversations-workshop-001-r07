@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:9a87471e-1463-41d2-a491-898ba51f75ce",
+  "sessionId": "9a87471e-1463-41d2-a491-898ba51f75ce",
+  "provider": "gemini",
+  "title": "Alors j'ai juste une contrainte la miniature doit donc avoir le style et il me faut le batiment rouge et bleu du coup slash uniquement la te",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/9a87471e-1463-41d2-a491-898ba51f75ce.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/9a87471e-1463-41d2-a491-898ba51f75ce.db",
+      "relativePath": "conversations/gemini/de8550ac7135fa97/09ccc189e9a3e5d4.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-19T20:30:39.115Z",
+  "stagedAt": "2026-10-04T08:09:16.638Z"
+}

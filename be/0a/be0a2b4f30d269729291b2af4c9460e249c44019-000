@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:9066a166-6a5c-4027-ae3b-4e114a52a91e",
+  "sessionId": "9066a166-6a5c-4027-ae3b-4e114a52a91e",
+  "provider": "gemini",
+  "title": "Conversation Gemini 9066a166",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/9066a166-6a5c-4027-ae3b-4e114a52a91e.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/9066a166-6a5c-4027-ae3b-4e114a52a91e.db",
+      "relativePath": "conversations/gemini/d93c562ae5d52bad/c99819006e353264.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-06T23:07:51.186Z",
+  "stagedAt": "2026-10-08T10:14:00.716Z"
+}

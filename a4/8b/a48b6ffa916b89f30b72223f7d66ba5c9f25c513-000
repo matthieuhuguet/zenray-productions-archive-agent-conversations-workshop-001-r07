@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:a9523191-9082-4699-b517-8589d9f3bcdf",
+  "sessionId": "a9523191-9082-4699-b517-8589d9f3bcdf",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 02 (Roof) avec les sous-titres animes (effet scale pop, Inter ExtraBold et Ant",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/a9523191-9082-4699-b517-8589d9f3bcdf.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/a9523191-9082-4699-b517-8589d9f3bcdf.db",
+      "relativePath": "conversations/gemini/d33401e6db661866/735fdc9f0c24351f.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:55:23.872Z",
+  "stagedAt": "2026-10-04T08:21:26.174Z"
+}

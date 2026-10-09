@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:1cd2bf0a-3853-426a-8b4a-4852b413ad87",
+  "sessionId": "1cd2bf0a-3853-426a-8b4a-4852b413ad87",
+  "provider": "gemini",
+  "title": "est ce que le script python hda à bien été écrit et consigné ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/1cd2bf0a-3853-426a-8b4a-4852b413ad87.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/1cd2bf0a-3853-426a-8b4a-4852b413ad87.db",
+      "relativePath": "conversations/gemini/dacbfa070f5a84aa/6059674a04ce2c45.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-16T22:56:24.281Z",
+  "stagedAt": "2026-10-04T08:13:36.283Z"
+}

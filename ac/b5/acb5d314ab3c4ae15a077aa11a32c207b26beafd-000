@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:55461b99-8ce8-4f43-89fc-f5eeef346752",
+  "sessionId": "55461b99-8ce8-4f43-89fc-f5eeef346752",
+  "provider": "gemini",
+  "title": "tu fonctionnes ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/55461b99-8ce8-4f43-89fc-f5eeef346752.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/55461b99-8ce8-4f43-89fc-f5eeef346752.db",
+      "relativePath": "conversations/gemini/b8ddf5f1b28d74af/aa23f6d5cfbf9614.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-14T16:35:51.431Z",
+  "stagedAt": "2026-10-04T08:16:17.967Z"
+}

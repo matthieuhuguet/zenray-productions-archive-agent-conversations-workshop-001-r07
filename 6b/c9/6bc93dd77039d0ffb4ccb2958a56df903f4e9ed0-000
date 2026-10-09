@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:18cef0c3-24c3-4275-a97b-86cadbe51623",
+  "sessionId": "18cef0c3-24c3-4275-a97b-86cadbe51623",
+  "provider": "gemini",
+  "title": "Tu vas simplement via youtube api ou autre récupérer l'intégralité du transcript dans un fichier dossier tmp-md-<nomdelavideo> + <nomdelavid",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/18cef0c3-24c3-4275-a97b-86cadbe51623.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/18cef0c3-24c3-4275-a97b-86cadbe51623.db",
+      "relativePath": "conversations/gemini/c94695f780f77fc7/1d10084d7106a2c0.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-12T12:12:34.212Z",
+  "stagedAt": "2026-10-04T08:19:46.100Z"
+}

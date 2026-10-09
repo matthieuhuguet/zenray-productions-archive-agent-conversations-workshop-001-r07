@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:f98f2adf-e463-43de-8783-9c8e00b509dc",
+  "sessionId": "f98f2adf-e463-43de-8783-9c8e00b509dc",
+  "provider": "gemini",
+  "title": "Tu es l'architecte des skills ZenRay. Ta mission est de creer le nouveau skill canonique `zenray-learn-japanese` dans `/Users/zenray/.claude",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/f98f2adf-e463-43de-8783-9c8e00b509dc.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/f98f2adf-e463-43de-8783-9c8e00b509dc.db",
+      "relativePath": "conversations/gemini/d2dda791ea2bcc96/c360fe1889ec4dac.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T07:01:08.431Z",
+  "stagedAt": "2026-10-04T08:27:28.318Z"
+}

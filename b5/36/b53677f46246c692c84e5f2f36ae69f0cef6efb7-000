@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c8e276b9-4cfc-4ca7-8ba7-a3334c4ca3be",
+  "sessionId": "c8e276b9-4cfc-4ca7-8ba7-a3334c4ca3be",
+  "provider": "gemini",
+  "title": "zenray-houdini-generate-isolated-components lance le skill via cette ref [Image #1] dans le dossier mais recommence de No jusqu'à N final su",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c8e276b9-4cfc-4ca7-8ba7-a3334c4ca3be.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c8e276b9-4cfc-4ca7-8ba7-a3334c4ca3be.db",
+      "relativePath": "conversations/gemini/d1aaab8e2449ab5e/8554b731cb0e5bdd.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T13:48:53.157Z",
+  "stagedAt": "2026-10-04T08:13:16.184Z"
+}

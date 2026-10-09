@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:3871323d-5da2-4ac2-9e7a-1e1ffa4146fc",
+  "sessionId": "3871323d-5da2-4ac2-9e7a-1e1ffa4146fc",
+  "provider": "gemini",
+  "title": "Tu es l'agent spécialisé dans la synchronisation de l'Armature (Arche et Croix) et de la Fenêtre B (Component_WindowB) dans Houdini. Objecti",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/3871323d-5da2-4ac2-9e7a-1e1ffa4146fc.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/3871323d-5da2-4ac2-9e7a-1e1ffa4146fc.db",
+      "relativePath": "conversations/gemini/bcd39421b5472f2d/12923fa3202ef403.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-12T13:01:11.654Z",
+  "stagedAt": "2026-10-04T08:18:56.112Z"
+}

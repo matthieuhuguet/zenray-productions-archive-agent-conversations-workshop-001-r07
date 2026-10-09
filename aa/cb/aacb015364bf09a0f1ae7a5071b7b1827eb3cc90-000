@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:24dfe9b4-ffad-4b4f-bfef-cdac3b0faecd",
+  "sessionId": "24dfe9b4-ffad-4b4f-bfef-cdac3b0faecd",
+  "provider": "gemini",
+  "title": "go compute stp dans un sous dossier : ZENRAY-HTML-HDA STUDIO · tmp-selection1 donc sous ici · format 4:5(1080x1350) ×3 → 3240x4050 01: IMG_7",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/24dfe9b4-ffad-4b4f-bfef-cdac3b0faecd.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/24dfe9b4-ffad-4b4f-bfef-cdac3b0faecd.db",
+      "relativePath": "conversations/gemini/bfcf3df3d24e4752/f0b671577409b25e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-09T23:09:17.445Z",
+  "stagedAt": "2026-10-04T08:25:26.235Z"
+}

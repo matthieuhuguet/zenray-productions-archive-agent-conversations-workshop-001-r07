@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c9177f46-cb16-4683-8520-6e26eb0e2af3",
+  "sessionId": "c9177f46-cb16-4683-8520-6e26eb0e2af3",
+  "provider": "gemini",
+  "title": "Navigue vers https://www.leboncoin.fr/messages/id/4c3975db-0cb3-4b4f-b4ce-ab653ff5fa11. Effectue les actions pas à pas, 1 par 1 (tempo posé ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c9177f46-cb16-4683-8520-6e26eb0e2af3.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c9177f46-cb16-4683-8520-6e26eb0e2af3.db",
+      "relativePath": "conversations/gemini/d1a410ddb52f4800/6137dc93293f0736.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T15:20:03.020Z",
+  "stagedAt": "2026-10-04T08:12:56.016Z"
+}

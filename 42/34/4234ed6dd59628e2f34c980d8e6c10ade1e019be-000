@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:848acfbf-31b7-4a00-a374-b1f0d81cf6c0",
+  "sessionId": "848acfbf-31b7-4a00-a374-b1f0d81cf6c0",
+  "provider": "gemini",
+  "title": "https://www.leboncoin.fr/messages/id/4c3975db-0cb3-4b4f-b4ce-ab653ff5fa11 predns ma messagerie via ton browser interne et à tout les message",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/848acfbf-31b7-4a00-a374-b1f0d81cf6c0.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/848acfbf-31b7-4a00-a374-b1f0d81cf6c0.db",
+      "relativePath": "conversations/gemini/cb274897c129b698/31f462790b34ba00.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T15:44:38.623Z",
+  "stagedAt": "2026-10-04T08:12:06.093Z"
+}
